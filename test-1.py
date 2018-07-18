@@ -3,6 +3,7 @@ import sys
 import importlib
 import json
 import uniout
+import re
 
 
 from pdfminer.pdfparser import PDFParser
